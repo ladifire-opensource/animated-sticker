@@ -12,4 +12,4 @@ You must following these 2 steps to run this demo:
 Then open http://localhost:5008 on your browser.
 
 ## Copyright
-Copyright: Cong Nguyen & Ladifire
+Copyright: [Cong Nguyen](https://www.facebook.com/congnguyen020/) & Ladifire
